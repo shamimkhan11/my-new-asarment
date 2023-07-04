@@ -1,0 +1,30 @@
+.my img {
+    width: 100%;
+}
+
+.my {
+    position: relative;
+    text-align: center;
+}
+
+.ab {
+    position: absolute;
+    top: 50%;
+    right: 0;
+    left: 0;
+    color: #f8f7f7;
+}
+
+.all {
+    padding: 5px;
+    background-color: rgb(8, 134, 252);
+    border: 5px solid yellow;
+    font-size: 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #f8f7f7;
+}
+
+#rrr {
+    font-size: 50px;
+}
